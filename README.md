@@ -1,3 +1,3 @@
 # MI-LAB
 This has all codes for the assignments for Machine Intelligence lab...
-Please star this repo if you found this useful!!! XD
+# Please star this repo if you found this useful!!! XD
